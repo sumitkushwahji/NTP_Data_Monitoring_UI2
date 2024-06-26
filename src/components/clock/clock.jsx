@@ -1,5 +1,5 @@
 //CLOCK.JSX FILE
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import styles from "./clock.module.css";
 
 function Clock() {
